@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Alexander-Renteria-DevMl
 - 👀 I’m interested in Data Science & Machine Learning
 - 🌱 I’m currently learning IA , DeepLearning .
+- 🧑🏾‍💻 I Want be a MLOps
 - 💞️ I’m looking to collaborate on my own project
 - 📫 How to reach me DaniAlexander.dev@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i like webtoons and kdramas
+- ⚡ Fun fact: i like webtoons and kdramas , Manga , Anime
 
 <!---
 Alexander-Renteria-DevMl/Alexander-Renteria-DevMl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
