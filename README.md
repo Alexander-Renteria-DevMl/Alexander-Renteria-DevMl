@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alexander-Renteria-DevMl
+- 👋 Hi, I’m @Alexander-Renteria-DevMl , Computer Engineer
 - 👀 I’m interested in Data Science & Machine Learning
 - 🌱 I’m currently learning IA , DeepLearning .
 - 🧑🏾‍💻 I Want be a MLOps
