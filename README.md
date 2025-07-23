@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on my own project
 - 📫 How to reach me DaniAlexander.dev@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i like webtoons and kdramas , Manga , Anime
+- ⚡ Fun fact:  I enjoy playing chess—it helps sharpen my critical thinking. I'm also passionate about reverse engineering, reading tech-related books, and staying up to date with emerging technologies. Exploring how things work keeps me curious, focused, and always learning.
 
 <!---
 Alexander-Renteria-DevMl/Alexander-Renteria-DevMl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
