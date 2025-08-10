@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Alexander-Renteria-DevMl , Computer Engineer
-- 👀 I’m interested in Data Science, Machine Learning & DevOps
+- 👋 Hi, I’m @Alexander-Renteria , Computer Engineer
+- 👀 I’m interested in CyberSecurity, Machine Learning &
 - 🌱 I’m currently learning IA , DeepLearning .
-- 🧑🏾‍💻 I Want be a MLOps
+- 🧑🏾‍💻 I Want be a MLOps & DevSecOps
 - 💞️ I’m looking to collaborate on my own project
 - 📫 How to reach me DaniAlexander.dev@gmail.com
 - 😄 Pronouns: he/him
