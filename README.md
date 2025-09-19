@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alexander-Renteria , Computer Engineer
-- 👀 I’m interested in CyberSecurity, Machine Learning & Software Arquitecture
+- 👀 I’m Focus in CyberSecurity & Machine Learning  
 - 🌱 I’m currently learning IA , DeepLearning .
 - 🧑🏾‍💻 I Want be a MLOps & DevSecOps
 - 💞️ I’m looking to collaborate in projects & on my own project
