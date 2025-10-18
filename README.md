@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alexander-Renteria , Computer Engineer
+- 👋 Hi, I’m @Alexander-Renteria , Computer Engineer and Machine Learning Engineer
 - 👀 I’m Focus in CyberSecurity & Machine Learning  
 - 🌱 I’m currently learning MLOps , DevSecOps .
 - 🧑🏾‍💻 I going to be  a MLOps & DevSecOps
