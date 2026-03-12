@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Alexander Rentería**
 
-🎯 **Computer Engineer | Machine Learning Engineer | Future MLOps & DevSecOps Specialist**
+🎯 **Computer Engineer | FullStack Developer | Machine Learning Engineer | Future MLOps & DevSecOps Specialist**
 
 ---
 
