@@ -22,7 +22,11 @@ I’m open to **collaborations, research projects, and international opportuniti
 - ☁️ Cloud & Infrastructure Automation  
 
 ---
-
+## Right Now
+I´m the tecihcal leader of Army of Nix
+A group dedicated to cyber intelligence, tactical telemetry, and information security education. Conceived as an open technology laboratory, our goal is democratization and digital protection.
+Linkedlin: https://www.linkedin.com/company/army-of-nix
+Website: https://army-of-nix-gja2.vercel.app/
 ## 📫 Contact  
 📧 **Email:** [DaniAlexander.dev@gmail.com](mailto:DaniAlexander.dev@gmail.com)  
 🌍 **GitHub:** [Alexander-Renteria-DevMl](https://github.com/Alexander-Renteria-DevMl)
