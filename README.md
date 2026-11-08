@@ -18,16 +18,19 @@
 
 ---
 
-# 👋 Hi there, I'm **Alexander Rentería**
-🎯 **Computer Science Engineer | Machine Learning Engineer | Future DevSecOps Specialist**
+ ## Hi there👋
+ ## Computer Science Engineer | IA Engineer | Python Developer 
 
 ---
 
 ## 🧠 About Me
-I'm a **Computer Engineer** focused on the intersection of **Machine Learning**, **Cybersecurity**, and **DevOps**. I specialize in designing and deploying secure, intelligent, and automated systems that bridge AI models with robust infrastructure.
+I am a Computer Science Engineer focused on backend development. My primary areas of interest are AI Engineering—where I apply my knowledge of data science and machine learning—and Cybersecurity, where I leverage my background in backend engineering, CTI, and ethical hacking to support vulnerability research and triage.
+
+I view artificial intelligence as an essential driver for streamling processes, provided it is applied responsibly, with context, and under proper governance to align with project goals.
+
+As an active volunteer in AI and cybersecurity research labs, I work at the intersection of both fields to optimize security data analysis using AI techniques. In these environments, I actively contribute to project conceptualization and execution.
 
 Currently, I'm deepening my expertise in:
-* 🧩 **Cybersecurity** — Security analysis, threat monitoring, and vulnerability assessment.
 * 🔐 **DevSecOps** — Embedding security controls (SAST/DAST, CI/CD) into the core development lifecycle.
 
 ---
@@ -36,9 +39,9 @@ Currently, I'm deepening my expertise in:
 
 | Category | Technologies |
 | :--- | :--- |
-| **Programming Languages** | Python, Java, C++, Bash/Shell, SQL, Go |
+| **Programming Languages** | Python, Java, Bash/Shell, SQL |
 | **Machine Learning & Data** | PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy |
-| **DevOps & Cloud** | Docker, Kubernetes, Git, GitHub Actions, Linux (Debian/Arch) |
+| **DevOps & Cloud** | Docker, Kubernetes, Git, GitHub Actions, Linux ,Windows , Azure , AWS |
 | **Security & Forensics** | Wireshark, Metasploit, Nmap, Burp Suite |
 | **Environments & Tools** | Jupyter Notebook, VS Code, Linux CLI |
 
