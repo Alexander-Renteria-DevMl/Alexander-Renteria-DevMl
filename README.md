@@ -19,7 +19,7 @@
 ---
 
  ## Hi there👋
- ## Computer Science Engineer | IA Engineer | Python Developer 
+ ## Computer Science Engineer | Cybersecurity Engineer  | Python Developer 
 
 ---
 
